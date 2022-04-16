@@ -1,11 +1,11 @@
 # ZSKD
 Zero-Shot Knowledge Distillation in Deep Networks
 
-**Paper link** : http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf
+**Paper link** : [http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf](http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf)
 
-**Presentation slides link** : https://icml.cc/media/Slides/icml/2019/grandball(13-11-00)-13-11-30-4371-zero-shot_knowl.pdf
+**Presentation slides link** : [https://icml.cc/media/Slides/icml/2019/grandball(13-11-00)-13-11-30-4371-zero-shot_knowl.pdf](https://icml.cc/media/Slides/icml/2019/grandball(13-11-00)-13-11-30-4371-zero-shot_knowl.pdf)
 
-**Poster link** : https://drive.google.com/file/d/1ZMCUPnJ3epCtLov26mVttmJT5OQB2HwK/view?usp=sharing
+**Poster link** : [https://drive.google.com/file/d/1ZMCUPnJ3epCtLov26mVttmJT5OQB2HwK/view?usp=sharing](https://drive.google.com/file/d/1ZMCUPnJ3epCtLov26mVttmJT5OQB2HwK/view?usp=sharing)
 
 ## Dependencies
 - Python 2.7
@@ -22,7 +22,7 @@ Zero-Shot Knowledge Distillation in Deep Networks
 
 *The cifar 10 dataset is available at*:
 
-https://drive.google.com/drive/folders/12mTAIrxSEGQthor3eFO4aBm6-bS4X-sI?usp=sharing
+[Google Drive](https://drive.google.com/drive/folders/12mTAIrxSEGQthor3eFO4aBm6-bS4X-sI?usp=sharing)
 
 Copy the cifar 10 folder from the above link and put it in the `model_training/dataset/` folder
 
